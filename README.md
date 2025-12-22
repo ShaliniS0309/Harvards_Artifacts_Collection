@@ -126,6 +126,4 @@ Harvards_Artifacts/
 **Shalini S**
 Data Sceience Learner | Python | SQL | Streamlit
 
----
 
-⭐ If you find this project useful, feel free to star the repository!
